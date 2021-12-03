@@ -1,5 +1,5 @@
 # bash
 Scripts in shell
 
-The shell is the primary way of communicating with Unix and Linux systems, providing a direct way to program by automating simple to intermediate tasks. 
+PowerShell is an automated task framework from Microsoft, with a command line shell and a scripting language integrated into the .NET framework, which can be embedded within other applications. It automates batch processing and creates system management tools.
 #### Scripts, functions and commands for study. 
